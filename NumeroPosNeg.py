@@ -1,4 +1,4 @@
-VERIFICAR NUMERO POSITIVO O NEGATIVO.
+#FUNCION: VERIFICAR NUMERO POSITIVO O NEGATIVO.
 
 variable1 = int(input("ingresa un numero: "))
 
