@@ -1,4 +1,4 @@
-FUNCION: VENTA DE PRODUCTOS 
+#FUNCION: VENTA DE PRODUCTOS 
 
 pollo = 1000 + 1200 + 500
 merma = pollo * 0.25
