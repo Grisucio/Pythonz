@@ -1,4 +1,4 @@
-FUNCION: PEDIR NOMBRE
+#FUNCION: PEDIR NOMBRE
 
 nombre  = input("Hola, dime tu nombre: ")
 edad = int(input("Dime tu edad: "))
